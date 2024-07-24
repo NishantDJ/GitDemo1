@@ -11,7 +11,8 @@ namespace GitDemo1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from Main");
-            Console.WriteLine("I am in branch nishu");
+            Console.WriteLine("I am in branch nishu" +
+                "from new line");
         }
     }
 }
