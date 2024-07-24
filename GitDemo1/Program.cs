@@ -12,6 +12,8 @@ namespace GitDemo1
         {
             Console.WriteLine("Hello from Main");
             Console.WriteLine("This is Nishant form Main branch");
+            Console.WriteLine("This is Nishant form Main branch");
+
         }
     }
 }
