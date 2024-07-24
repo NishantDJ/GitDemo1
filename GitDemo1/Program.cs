@@ -11,6 +11,7 @@ namespace GitDemo1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from Main");
+            Console.WriteLine("This is Nishant form Main branch");
         }
     }
 }
